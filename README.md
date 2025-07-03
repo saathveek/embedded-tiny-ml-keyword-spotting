@@ -1,4 +1,4 @@
-![Project Banner](assets/github_banner_tinyml.png)
+![Project Banner](assets/github_banner_tiny_ml.png)
 
 # Embedded Keyword Spotting with Tiny Machine Learning
 
