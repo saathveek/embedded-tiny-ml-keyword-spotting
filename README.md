@@ -2,11 +2,13 @@
 
 # Embedded Keyword Spotting with Tiny Machine Learning
 
-[![View Code on GitHub](https://img.shields.io/badge/View-Repository-blue)](https://github.com/saathveek/embedded-tiny-ml-keyword-spotting)  
+[![View Code](https://img.shields.io/badge/View-Repository-blue)](https://github.com/saathveek/embedded-tiny-ml-keyword-spotting)  
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)  
 ![Arduino Nano 33 BLE Sense](https://img.shields.io/badge/Board-Arduino%20Nano%2033%20BLE%20Sense-teal.svg)  
-![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)  
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow-Lite-orange.svg)  
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![MIT License](https://img.shields.io/badge/Software%20License-MIT-blue.svg)](LICENSE)
+[![Data License: CC BY-NC 4.0](https://img.shields.io/badge/Data%20License-CC--BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 This project implements a continuous keyword spotting system using Tiny Machine Learning techniques deployed on the **Arduino Nano 33 BLE Sense**.
 
